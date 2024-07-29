@@ -4,8 +4,7 @@ public class Main
   {
     System.out.println("This is java program");
     System.out.println("Hello mohit");
-    System.out.println(new Date());
-    System.out.println("Added one more file");
+    System.out.println("Added one more file ");
   }
 
 }
