@@ -5,8 +5,8 @@ public class Main
     System.out.println("This is java program");
     System.out.println("Hello mohit");
     System.out.println("Added one more file ");
-    Student student = new   Student();
-    student.sayHello();
+    Student st = new Student();
+    st.sayHello();
   }
 
 }
